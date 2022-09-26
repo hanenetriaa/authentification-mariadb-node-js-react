@@ -1,0 +1,19 @@
+﻿{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "triaahanene",
+    "password": "1234",
+    "database": "TEST"
+  },
+  "secret": "b1c8e432-08aa-405d-a62a-3b8735a39e12",
+  "emailFrom": "katlyn.pfannerstill70@ethereal.email",
+  "smtpOptions": {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": {
+      "user": "katlyn.pfannerstill70@ethereal.email",
+      "pass": "e1Gm9DZP56yfR7ryWv"
+    }
+  }
+}
